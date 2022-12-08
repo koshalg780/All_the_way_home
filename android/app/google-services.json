@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190231098492",
+    "project_id": "all-the-way-home",
+    "storage_bucket": "all-the-way-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190231098492:android:423a3b94ea015139adc5f9",
+        "android_client_info": {
+          "package_name": "com.example.all_the_way_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190231098492-11csihhkku6q8n345rlkok16i9rajiap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhDWq6YvO2BkL1nSpAQjOsl7BPCRVEHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190231098492-11csihhkku6q8n345rlkok16i9rajiap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
